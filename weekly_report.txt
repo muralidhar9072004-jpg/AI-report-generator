@@ -1,0 +1,10 @@
+WEEKLY OPERATIONS REPORT
+
+Summary:
+- Checked battery station performance
+- 2 stations reported low SOC
+- 1 station under maintenance review
+- Overall weekly operations stable
+
+Conclusion:
+System performance remained stable with minor issues requiring follow-up.
